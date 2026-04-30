@@ -4,13 +4,13 @@
 npm install RerezzOfficial/function
 ```
 
-##LIST FUNCTION AVAILABEL
+## LIST FUNCTION AVAILABEL
 
-##AI Dphn Chat
+## AI Dphn Chat
 ```
-AIdphnChat
+AIdphnChat(prompt)
 ```
-###Respon
+### Respon
 ```
 {
   status: true,
@@ -20,11 +20,11 @@ AIdphnChat
 ```
 
 
-##Tik-Tok Downloader
+## Tik-Tok Downloader
 ```
 tiktokDl(url)
 ```
-###Respon
+### Respon
 ```
 {
   status: true,
