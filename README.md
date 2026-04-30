@@ -5,7 +5,7 @@ npm install RerezzOfficial/function
 ```
 
 ## LIST FUNCTION AVAILABEL
-
+***
 ## AI Dphn Chat
 ```
 AIdphnChat(prompt)
@@ -18,8 +18,7 @@ AIdphnChat(prompt)
   result: 'Saya adalah model bahasa besar yang dibangun oleh Mistral AI.'
 }
 ```
-
-
+***
 ## Tik-Tok Downloader
 ```
 tiktokDl(url)
