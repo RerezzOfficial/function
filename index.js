@@ -53,4 +53,4 @@ async function dphnChat(prompt) {
   })
 }
 
-module.exports { dphnChat }
+module.exports = { dphnChat }
